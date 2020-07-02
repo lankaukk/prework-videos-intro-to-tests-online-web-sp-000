@@ -1,4 +1,4 @@
-puts 
+puts "The tests are running..."
 
 require_relative '../conversions.rb'
 
